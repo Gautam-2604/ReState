@@ -41,6 +41,7 @@ export const GlobalProvider = ({ children }: GlobalProviderProps) => {
         isLogged,
         user,
         loading,
+        //@ts-ignore
         refetch,
       }}
     >
