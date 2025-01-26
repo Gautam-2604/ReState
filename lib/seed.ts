@@ -7,6 +7,7 @@ import {
   reviewImages,
 } from "./data";
 
+
 const COLLECTIONS = {
   AGENT: config.agentsCollectionId,
   REVIEWS: config.reviewsCollectionId,
